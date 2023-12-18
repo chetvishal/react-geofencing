@@ -12,6 +12,10 @@
   ],
   "author": "Vishal Singh",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chetvishal/react-geofencing"
+  },
   "peerDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
