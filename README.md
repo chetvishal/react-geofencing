@@ -1,3 +1,5 @@
+Geo fencing for react apps.
+
 ```jsx
 import { useGeoFencing } from 'react-geofencing'
 
