@@ -1,6 +1,6 @@
 {
   "name": "react-geofencing",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Geo fencing for react apps",
   "main": "index.js",
   "scripts": {

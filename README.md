@@ -1,4 +1,4 @@
-Geo fencing for react apps.
+Geo fencing for react apps(Circular).
 
 ```jsx
 import { useGeoFencing } from 'react-geofencing'
