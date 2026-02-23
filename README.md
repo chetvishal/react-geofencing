@@ -4,7 +4,7 @@ Geo fencing for react apps(Circular).
 import { useGeoFencing } from 'react-geofencing'
 
 const MyComponent = () => {
-	 const { isWithinGeoFence } = useGeoFencing({radius: 50})
+	 const { isWithinGeoFence } = useGeoFencing({radius: 50})// in meters (50 meters)
 
   if(isWithinGeoFence(
      { lat: 28.420006, long: 77.038188 }, //geo-fence center point
